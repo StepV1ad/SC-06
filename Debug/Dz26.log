@@ -1,0 +1,13 @@
+﻿  main.cpp
+D:\MVS_project\SkillFactory\Dz26\main.cpp(15,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\MVS_project\SkillFactory\Dz26\main.cpp(79,15): warning C4244: 'initializing': conversion from '_Rep' to 'long', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+D:\MVS_project\SkillFactory\Dz26\main.cpp(85,88): warning C4244: '=': conversion from '_Rep' to 'long', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  Dz26.vcxproj -> D:\MVS_project\SkillFactory\Dz26\Debug\Dz26.exe
